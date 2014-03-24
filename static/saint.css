@@ -1,0 +1,9 @@
+body {
+    background: black;
+}
+
+p {
+    font-size: 400px;
+    color: white;
+    font-family: 'Fjord One', serif;
+}
